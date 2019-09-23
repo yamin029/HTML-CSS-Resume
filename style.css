@@ -1,1 +1,61 @@
 /* Your CSS styles go here */
+body {
+  background-color: cyan;
+  text-align: center;
+  color: black;
+  margin: 0px;
+}
+header {
+  background-color: aquamarine;
+  font-size: 40px;
+  padding: 5px;
+}
+img {
+  margin: 20px 0px;
+  box-shadow: 8px 8px 15px;
+}
+.section2 h4 {
+  font-size: 25px;
+}
+.section2 p {
+  background-color: aquamarine;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.about {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.courses {
+  background-color: aquamarine;
+  padding: 5px;
+}
+.courses h4 {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+.ul {
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  list-style-type: none;
+}
+
+table {
+  margin: 50px 0px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0.5rem outset pink;
+  text-align: justify;
+  padding: 5px;
+}
+.beforelast {
+  background-color: aquamarine;
+  padding: 15px;
+}
+footer {
+  font-weight: bold;
+}
